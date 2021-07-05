@@ -15,7 +15,7 @@ I'm J.K Obando (not Rowling 🤣), I from Ecuador 🇪🇨. I love to be part of
 
 **Skills:** JS  HTML / CSS / REACT / NEXT / NEST / NODEJS / EXPRESS
 
-**Soft Skill:** Leadership / Communication / Team Work / Creativity / Self-management
+**Soft Skills:** Leadership / Communication / Team Work / Creativity / Self-management
 
 ### Languages and Tools
 
