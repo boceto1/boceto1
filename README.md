@@ -6,7 +6,7 @@ I'm J.K Obando (not Rowling 🤣), I from Ecuador 🇪🇨. I love to be part of
 
 |                          |              |
 | -----------              | ----------- |
-| 🔭 Currently working     | Paxico       |
+| 🔭 Currently working at    | Paxico       |
 | 🌱 Currently Learning    | GCP, Advanced CSS and NextJs |
 | 🤓 Interesed in          | Blockchain and [Solid](https://solidproject.org/) |
 |  📚 Reading          | [Code Complete](https://www.amazon.com/-/es/Steve-McConnell/dp/0735619670/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=code+complete&qid=1625516955&s=books&sr=1-1) and  [Effective Engineer](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107) |
